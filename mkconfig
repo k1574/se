@@ -1,0 +1,10 @@
+CC = cc
+LD = $CC
+AR = ar
+STRIP = strip
+LOCAL=$HOME/local
+BIN=$LOCAL/bin
+SHR=$LOCAL/shr
+MAN=$SHR/man
+DIRS = nl tab+ tab-
+
