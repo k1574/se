@@ -6,5 +6,5 @@ LOCAL=$HOME/local
 BIN=$LOCAL/bin
 SHR=$LOCAL/shr
 MAN=$SHR/man
-DIRS = nl tab+ tab-
+DIRS = nl tab+ tab- upcase lowcase
 
